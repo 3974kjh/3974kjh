@@ -41,8 +41,14 @@
 
 
 ## 💡 Where I learned and learning
-<img src="https://user-images.githubusercontent.com/78896394/169780182-73d53a8b-3faa-41ba-8f45-265b2270d8f2.jpg" width="100" height="100">      <img src="https://user-images.githubusercontent.com/78896394/169781020-4624ee5f-7117-43ba-a4fe-8b244c2c419e.jpg" width="200" height="100">
 
+### 🏆 Learned
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78896394/169780182-73d53a8b-3faa-41ba-8f45-265b2270d8f2.jpg" width="70" height="70"> <img src="https://user-images.githubusercontent.com/78896394/169781020-4624ee5f-7117-43ba-a4fe-8b244c2c419e.jpg" width="150" height="70">
+
+### 🚩 Learning
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78896394/169782721-9a109548-3dc9-4ca0-a8e0-0f294e8ba203.jpg" width="150" height="70">
 <br />
 <br />
     
