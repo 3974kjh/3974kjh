@@ -4,12 +4,16 @@
   <p align="center">
 </p>
 
-
 ## 💡 Introduce
 > 안녕하세요 👋
 > 
 > 전자공학부를 전공했고, 현재는 개발의 길을 걷고 있는 코린이 입니다 🐤
-<br />
+
+#### ⚡ ***바로가기***
+
+<a href="https://blog.naver.com/3974kjh"><img src="https://img.shields.io/badge/Naver Blog-FCC53D?style=flat-square&logo=Naver&logoColor=03C75A"/></a>
+<a href="https://velog.io/@hijukim"><img src="https://img.shields.io/badge/Velog-F7E456?style=flat-square&logo=Velog&logoColor=20C997"/></a>
+
 <br />
 
 ## 💡 Used Langage & Tools
