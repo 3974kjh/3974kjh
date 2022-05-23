@@ -41,6 +41,7 @@
 
 
 ## 💡 Where I learned and learning
+<img src="https://user-images.githubusercontent.com/78896394/169780182-73d53a8b-3faa-41ba-8f45-265b2270d8f2.jpg" width="100" height="100">      <img src="https://user-images.githubusercontent.com/78896394/169781020-4624ee5f-7117-43ba-a4fe-8b244c2c419e.jpg" width="200" height="100">
 
 <br />
 <br />
@@ -48,7 +49,6 @@
     
 ## 💡 My Velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hijukim&color=dark)](https://velog.io/@hijukim)
-
 <br />
 <br />
     
