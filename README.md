@@ -9,7 +9,7 @@
 > 
 > 전자공학부를 전공했고, 현재는 개발의 길을 걷고 있는 코린이 입니다 🐤
 
-#### ⚡ ***바로가기***
+#### ⚡ ***바로가기 Link***
 
 <a href="https://blog.naver.com/3974kjh"><img src="https://img.shields.io/badge/Naver Blog-FCC53D?style=flat-square&logo=Naver&logoColor=03C75A"/></a>
 <a href="https://velog.io/@hijukim"><img src="https://img.shields.io/badge/Velog-F7E456?style=flat-square&logo=Velog&logoColor=20C997"/></a>
@@ -42,3 +42,14 @@
 
 ## 💡 Where I learned and learning
 
+<br />
+<br />
+    
+## 💡 ETC
+[![Solved.ac
+3974kjh](http://mazassumnida.wtf/api/v2/generate_badge?boj=3974kjh)](https://solved.ac/3974kjh)
+<img src="http://mazandi.herokuapp.com/api?handle=3974kjh&theme=warm"/>
+   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3974kjh)](https://github.com/3974kjh/github-readme-stats)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3974kjh)](https://github.com/3974kjh/github-readme-stats)
