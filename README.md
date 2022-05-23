@@ -1,28 +1,11 @@
 <br />
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=Slice&color=6cb7df&height=200&text=🐬MPMS&fontColor=FFFFFF&fontAlign=80&rotate=13&fontAlignY=25&desc=Development%20Team&descAlign=85&descAlignY=44&fontSize=50" /> <br /> 
+    <img src="https://capsule-render.vercel.app/api?type=Slice&color=6cb7df&height=200&text=🐬JUKIM&fontColor=FFFFFF&fontAlign=80&rotate=13&fontAlignY=25&desc=Software%20Developer&descAlign=85&descAlignY=44&fontSize=50" /> <br /> 
   <p align="center">
-    <a href="https://osstem-mpms.notion.site/OneClin-3f0734bc7b0f467d815e7eafdd4faf03"><img src="https://img.shields.io/badge/OneClin_Wiki-FCC53D?style=flat-square&logo=Notion&logoColor=black"/></a>
-    <a href="https://drive.google.com/drive/folders/190D6a0N1s4iSd8imSzUcf53Re2EZgAok"><img src="https://img.shields.io/badge/Google_Drive-F7E456?style=flat-square&logo=GoogleDrive&logoColor=4285F4"/></a>
-  </p>
 </p>
 
 
-## 🚩 목차
-- - -
-  - [프로젝트 소개](#프로젝트-소개)
-  - [사용 언이 및 기술](#사용-언어-및-기술) 
-  - [개발 도구](#개발-도구)
-  - [프로그램 권장 사양](#프로그램-권장-사양)
-  - [프로젝트 버전](#프로젝트-버전)
-  - [저작권 및 라이센스 정보](#저작권-및-라이센스-정보)
-  - [외부 리소스 정보](#외부-리소스-정보)
-- - -
-<br />
-<br />
-
-
-## 💡 프로젝트 소개
+## 💡 소개
 > 진료에서 보험청구, 경영 등 병원 업무 전반을 정보화하여 업무 효율을 극대화하는 병의원 경영 통합 솔루션이다. 
 <br />
 <br />
@@ -50,18 +33,3 @@
 |**HDD**|256 GB|
 |**OS**|Window 10|
 |**DATABASE**|MS SQL Server 2019 Express|
-
-<br />
-
-## 💡 프로젝트 버전
-* OneClin V1.0 - C/S(서버와 클라이언트) 구조
-
-<br />
-
-## 💡 저작권 및 라이센스 정보
-
-<br />
-
-## 💡 외부 리소스 정보
-
-<br />
