@@ -45,6 +45,13 @@
 <br />
 <br />
     
+    
+## 💡 Where I learned and learning
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
+
+<br />
+<br />
+    
 ## 💡 ETC
 [![Solved.ac
 3974kjh](http://mazassumnida.wtf/api/v2/generate_badge?boj=3974kjh)](https://solved.ac/3974kjh)
