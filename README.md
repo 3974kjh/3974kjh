@@ -46,8 +46,8 @@
 <br />
     
     
-## 💡 Where I learned and learning
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그아이디)](벨로그링크)
+## 💡 My Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hijukim&color=dark)](https://velog.io/@hijukim)
 
 <br />
 <br />
