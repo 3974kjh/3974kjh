@@ -20,17 +20,21 @@
 
 ***✒️ Used 개발 Langage & Framework***
 <p align="center">
-<img src="https://img.shields.io/badge/C-D1EC3D?style=flat-square&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C_Sharp-D1EC3D?style=flat-square&logo=C-Sharp&logoColor=239120"/> <img src="https://img.shields.io/badge/Python-D1EC3D?style=flat-square&logo=Python&logoColor=3776AB"/>
-<br />
+<img src="https://img.shields.io/badge/C-D1EC3D?style=flat-square&logo=C&logoColor=A8B9CC"/> 
+    <img src="https://img.shields.io/badge/C_Sharp-D1EC3D?style=flat-square&logo=C-Sharp&logoColor=239120"/> 
+    <img src="https://img.shields.io/badge/Python-D1EC3D?style=flat-square&logo=Python&logoColor=3776AB"/> 
+    <img src="https://img.shields.io/badge/Svelte-D1EC3D?style=flat-square&logo=Svelte&logoColor=#FF3E00"/>                                                                                                                         <img src="https://img.shields.io/badge/Vue.js-D1EC3D?style=flat-square&logo=Vue.js&logoColor=#4FC08D"/> <br />
 <img src="https://img.shields.io/badge/.NET-D1EC3D?style=flat-square&logo=.NET&logoColor=512BD4"/>
     
 ***✒️ Used 개발 🔧***
     
 <p align="center">
-<img src="https://img.shields.io/badge/MS_Visual_Studio-B4FC3D?style=flat-square&logo=Visual-Studio&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/VS_Code-B4FC3D?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC"/>
-<br />
+<img src="https://img.shields.io/badge/MS_Visual_Studio-B4FC3D?style=flat-square&logo=Visual-Studio&logoColor=5C2D91"/> 
+    <img src="https://img.shields.io/badge/VS_Code-B4FC3D?style=flat-square&logo=Visual-Studio-Code&logoColor=007ACC"/>
+     <img src="https://img.shields.io/badge/Intellij-B4FC3D?style=flat-square&logo=intellijidea&logoColor=000000"/>
+    <br />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-B4FC3D?style=flat-square&logo=Microsoft-SQL-Server&logoColor=CC2927"/> <img src="https://img.shields.io/badge/MongoDB-B4FC3D?style=flat-square&logo=MongoDB&logoColor=47A248"/>
-<br />
+     <img src="https://img.shields.io/badge/MariaDB-B4FC3D?style=flat-square&logo=mariadbfoundation&logoColor=#000000"/><br />
 
 ***✒️ Used 협업 🔧***  
 <p align="center">
